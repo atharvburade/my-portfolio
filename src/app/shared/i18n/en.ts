@@ -1,0 +1,75 @@
+export const locale = {
+    lang: 'en',
+    data: {
+        'about': {
+            'title': 'About',
+            'jobTitle': 'Web application developer',
+            'introductionOfMe': 'Results-driven Full-Stack Developer with 3+ years of experience in designing and implementing complex web applications. Proficient in modern web technologies and frameworks, with a proven track record of improving system performance, leading projects, and delivering user-centric solutions.Interested in new technologies and working methods.',
+            'passionateAboutDevelopment':'Passionate about development',
+            'mobility': 'Mobile throughout India',
+            'years': 'Years',
+            'graduation': "Bachelor's degree in CS",
+            'researchDescription': 'I am looking for an innovative and user-centric company to best meet the needs customer, from his idea to the final delivery of his project, or participate in the improvement of a project existing.',
+            'and':'and',
+            'followMeOn':'Follow me on',
+        },
+        'contact': {
+            'contactMe': 'Contact Me',
+            'notHesitateToContactMe': 'Do not hesitate to contact me',
+            'identify': 'Identify',
+            'enterIdentify': 'Enter your identify',
+            'email': 'Email',
+            'enterEmail': 'Enter your email',
+            'object': 'Object',
+            'enterObject': 'Enter object',
+            'message': 'Message',
+            'send': 'Send',
+        },
+        'education': {
+            'title': 'Curriculum Vitae',
+            'eductionTitle': 'Education',
+            'experiencesTitle': 'Experiences',
+            'centerOfInterest': 'Center of interest',
+            'sport': 'Sport',
+            'trips': 'Trips',
+            'hobbies': 'Hobbies',
+            'languages': 'Languages',
+            'fluent': 'Fluent',
+            'goodLevel': 'Good level',
+            'indian': 'Hindi and Marathi',
+            'english': 'English',
+            'bachlorDegree': "Bachelor's degree",
+            'bachlorDegreeDesc': "B.Tech in Computer Science",
+            'university': 'Vishwakarma University, Pune',
+            'mission':'Mission',
+            'technologies':'Technologies',
+            'detail':'Detail',
+            'hobbiesAre':'Writing Poems, Reading Books',
+            'years':'years'
+        },
+        'header': {
+            'home': 'Home',
+            'about': 'About',
+            'skills': 'Skills',
+            'references': 'References',
+            'contactMe': 'Contact me',
+        },
+        'home': {
+            'iAmDeveloper': 'I am developer',
+        },
+        'projects': {
+            'title': 'Portfolio',
+            'projectDetail':'Project detail',
+            'sourceCode':'Source code',
+        },
+        'references': {
+            'title': 'References',
+        },
+        'skills': {
+            'title': 'Skills',
+            'technologies': 'Technologies',
+            'tools': 'Tools',
+            'methodologies': 'Methodologies'
+        },
+    }
+}
