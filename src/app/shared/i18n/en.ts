@@ -52,6 +52,7 @@ export const locale = {
             'about': 'About',
             'skills': 'Skills',
             'references': 'References',
+            'achievements': 'Achievements',
             'contactMe': 'Contact me',
         },
         'home': {
@@ -59,6 +60,11 @@ export const locale = {
         },
         'projects': {
             'title': 'Portfolio',
+            'projectDetail':'Project detail',
+            'sourceCode':'Source code',
+        },
+        'achievements': {
+            'title': 'Achievements',
             'projectDetail':'Project detail',
             'sourceCode':'Source code',
         },

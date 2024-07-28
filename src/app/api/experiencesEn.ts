@@ -32,7 +32,7 @@ export const experiencesEn = [
     },
     {
         title: "Unity Developer Intern",
-        company: 'Zycus, Pune, India',
+        company: 'Sattvarise Technologies, Pune, India',
         period: "2020 (6 months)",
         technologies: 'C#, Unity',
         missions: [

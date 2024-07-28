@@ -22,6 +22,7 @@ import { ContactComponent } from './contact/contact.component';
 import { CurriculumVitaeComponent } from './curriculum-vitae/curriculum-vitae.component';
 import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
+import { AchievementComponent } from './achievement/achievement.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { ProjectsComponent } from './projects/projects.component';
     ContactComponent,
     CurriculumVitaeComponent,
     AboutComponent,
-    ProjectsComponent
+    ProjectsComponent,
+    AchievementComponent
   ],
   imports: [
     BrowserModule,
